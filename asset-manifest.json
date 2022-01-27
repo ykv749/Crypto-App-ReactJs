@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Crypto-App-ReactJs/static/css/main.eaa37f99.chunk.css",
+    "main.css": "/Crypto-App-ReactJs/static/css/main.7b210a21.chunk.css",
     "main.js": "/Crypto-App-ReactJs/static/js/main.ee7c3ee9.chunk.js",
     "main.js.map": "/Crypto-App-ReactJs/static/js/main.ee7c3ee9.chunk.js.map",
     "runtime-main.js": "/Crypto-App-ReactJs/static/js/runtime-main.f1684cdd.js",
@@ -8,7 +8,7 @@
     "static/js/2.f736bf29.chunk.js": "/Crypto-App-ReactJs/static/js/2.f736bf29.chunk.js",
     "static/js/2.f736bf29.chunk.js.map": "/Crypto-App-ReactJs/static/js/2.f736bf29.chunk.js.map",
     "index.html": "/Crypto-App-ReactJs/index.html",
-    "static/css/main.eaa37f99.chunk.css.map": "/Crypto-App-ReactJs/static/css/main.eaa37f99.chunk.css.map",
+    "static/css/main.7b210a21.chunk.css.map": "/Crypto-App-ReactJs/static/css/main.7b210a21.chunk.css.map",
     "static/js/2.f736bf29.chunk.js.LICENSE.txt": "/Crypto-App-ReactJs/static/js/2.f736bf29.chunk.js.LICENSE.txt",
     "static/media/cryptobckg.7490db58.jpeg": "/Crypto-App-ReactJs/static/media/cryptobckg.7490db58.jpeg",
     "static/media/refresh.beb477b7.png": "/Crypto-App-ReactJs/static/media/refresh.beb477b7.png"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.f1684cdd.js",
     "static/js/2.f736bf29.chunk.js",
-    "static/css/main.eaa37f99.chunk.css",
+    "static/css/main.7b210a21.chunk.css",
     "static/js/main.ee7c3ee9.chunk.js"
   ]
 }
