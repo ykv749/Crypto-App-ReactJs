@@ -5,7 +5,7 @@
 We will build a CryptoApp using HTML, CSS, JavaScript, ReactJs.
 It will provide realtime information about CryptoCurrencies like Current Price, 
 Market Cap and Total Volume.
-API: CoinGecko. [LIVE](https://ykv749.github.io/Crypto-App-ReactJs)
+API: CoinGecko. [LIVE](https://cryptoappreactjs.herokuapp.com/)
 
 ![Demo](Demo.gif)
 
