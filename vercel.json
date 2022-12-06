@@ -1,6 +1,17 @@
 {
-  "version": 2,
-  "name": "native-server",
-  "builds": [{ "src": "/public/index.js", "use": "@vercel/create-react-app" }],
-  "routes": [{ "src": "/(.*)", "dest": "/public/index.js" }]
-}
+              "version": 1,
+              "builds": [
+                {
+                  "src": "src/index.js",
+                  "use": "@now/node"
+                }
+              ],
+              "routes": [
+                {
+                 
+                  "src": "/(.*)",
+                  
+                  "dest": "src/index.js"
+                }
+              ]
+            }
